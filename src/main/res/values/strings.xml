@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">doska</string>
+    <string name="add_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="add_inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!--menu drawer string -->
+    <string name="ad_cat1">объявления</string>
+    <string name="ad_my_ads">мои объявления</string>
+    <string name="ad_iz">избранное</string>
+    <string name="def">разное</string>
+    <string name="ad_car">машины</string>
+    <string name="ad_pc">компьютеры</string>
+    <string name="ad_smartphone">смартфоны</string>
+    <string name="ad_dm">бытовая техника</string>
+    <string name="ad_cat2">аккаунт</string>
+    <string name="ac_sign_up">регистрация</string>
+    <string name="ac_sign_in">вход</string>
+    <string name="ac_sign_out">выход</string>
+    <string name="open">открыть</string>
+    <string name="close">закрыть</string>
+    <string name="gost">гость</string>
+    <string name="not_reg">войдите или зарегестрийтесь</string>
+    <!--sign dialog -->
+    <string name="email_hint">email</string>
+    <string name="email_reset_password_was_sent">reset email was sent</string>
+    <string name="dialo_resent_email_message">для вщстановления пароля укажите ваш эмэйл адрес</string>
+    <string name="password_hint">password</string>
+    <string name="sign_up_action">зарегистрироваться</string>
+    <string name="sign_in_action">войти</string>
+    <string name="forget_password">забыли пароль?</string>
+    <string name="sign_up_error">неудалось зарегистрироваться</string>
+    <string name="sign_in_error">неудалось войти</string>
+    <string name="send_verification_error">неудалось отправить эмэил для потверждения</string>
+    <string name="send_verification_done">на вашу почту была отправлена ссылка для потверждения вашего аккаунта, пожалуйста потвердите ваш аккаунт</string>
+    <!--sign dialog -->
+    <string name="link_done">email успешно подключен</string>
+    <string name="enter_to_g">у вас уже есть аккаунт с этим эмэйломвойдите по нему</string>
+    <!--edit activity -->
+    <string name="select_country">выберите страну</string>
+    <string name="select_citi">выберите город</string>
+    <string name="citi">город</string>
+    <string name="country">страна</string>
+    <string name="index">адрес</string>
+    <string name="tel">телефон</string>
+    <string name="tel_number"> номер телефона</string>
+    <string name="category"> категория</string>
+    <string name="title"> заголовок</string>
+    <string name="title_hint">название объявления</string>
+    <string name="select_category"> выберите категорию</string>
+    <string name="price"> цена</string>
+    <string name="price_hint"> укажите цену</string>
+    <string name="description"> описание</string>
+    <string name="with_send"> доставка</string>
+    <string name="publish"> опубликовать</string>
+    <!--Ad List Item -->
+    <string name="price_desc">цена:</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701794726723",
+    "firebase_url": "https://doska2-5cd39-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "doska2-5cd39",
+    "storage_bucket": "doska2-5cd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701794726723:android:63eca242adb59323bdf5f6",
+        "android_client_info": {
+          "package_name": "com.example.doska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701794726723-fo0b44jsnt4vmle3pbpol7sb9d4e2vt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doska",
+            "certificate_hash": "a03a0c0dcb5696e4e0284b3516e51ff861900867"
+          }
+        },
+        {
+          "client_id": "701794726723-n8qn84lctim935vmocs8vdotp2p6gi9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRL-8OOnn3jEkqCsh1Rd3POy-8mziB0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701794726723-n8qn84lctim935vmocs8vdotp2p6gi9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
